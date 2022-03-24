@@ -2,4 +2,3 @@ https://cncf.atlassian.net/wiki/spaces/WORK/pages/1277966/Task+2+Deploying+EKS+o
 
 https://www.linkedin.com/pulse/deploying-aws-load-balancer-controller-ingress-eks-kai-jian-tan/
 
-https://github.com/Prashan123/EKS
