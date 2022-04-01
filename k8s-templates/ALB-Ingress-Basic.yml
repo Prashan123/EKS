@@ -24,7 +24,6 @@ spec:
   rules:
     - http:
         paths:
-          #- path: /usermgmt
           - path: /usermgmt
             pathType: Prefix
             backend:
@@ -32,6 +31,7 @@ spec:
                 name: usermgmt-restapp-nodeport-service
                 port:
                   number: 8095
+
           - path: /adminer
             pathType: Prefix
             backend:

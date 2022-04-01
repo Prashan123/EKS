@@ -4,4 +4,4 @@ metadata:
   name: mysql
 spec:
   type: ExternalName
-  externalName: mysql-freetier-tb.cmqqgelvhttx.us-east-1.rds.amazonaws.com
+  externalName: <db endpoint>
