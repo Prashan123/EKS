@@ -1,0 +1,1 @@
+helm delete aws-load-balancer-controller -n kube-system
