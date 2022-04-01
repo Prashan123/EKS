@@ -1,1 +1,1 @@
-- Namespacing is encourage.
+- Namespacing is encourage..
